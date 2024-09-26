@@ -1,7 +1,7 @@
 # TennisProject
 Tennis analysis using deep learning and machine learning. <br>
 
-![](sample_tennis_battle.gif)
+![](cat1.jpeg)
 
 ### How to run
 Prepare a video file with resolution 1280x720
